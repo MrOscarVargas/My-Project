@@ -3,6 +3,6 @@ public class App {
         System.out.println("Hello, World!");
         System.out.println("Committing changes");
 
-        System.out.println("Committing changes");
+        System.out.println( "Hello");
     }
 }
